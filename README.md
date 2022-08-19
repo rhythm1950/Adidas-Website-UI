@@ -1,6 +1,8 @@
 # Adidas-Clone
 This is a Clone of Adidas Website
 
+Live Link: https://rhythm1950.github.io/Adidas-Website-UI/
+
 ### Deployment
 | Environment | Link |
 |-------------|------|
