@@ -1,14 +1,10 @@
 # Adidas-Clone
-This is a Clone of Adidas Website
-
-Live Link: https://rhythm1950.github.io/Adidas-Website-UI/
+This is a website close to the website of Adidas. I have developed it using HTML, CSS, Bootstrap, JavaScript.
 
 ### Deployment
 | Environment | Link |
 |-------------|------|
-| GitHub Pages | [GitHub Pages](https://kumar-laxmi.github.io/Adidas-Clone/) |
-| Vercel Preview | [Vercel Preview](https://adidas-clone-m0u27psc8-kumar-laxmi.vercel.app/) |
-| Vercel Production | [Vercel Production](https://adidas-clone-m0u27psc8-kumar-laxmi.vercel.app/)
+| GitHub Pages | [GitHub Pages](https://rhythm1950.github.io/Techo-Agency/) |
 
 ### Technology Stack
 #### Languages:
@@ -18,8 +14,7 @@ Live Link: https://rhythm1950.github.io/Adidas-Website-UI/
 
 #### Frame-Works, PlatForm & Libraries:
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![JQUERY](https://img.shields.io/badge/jquery-%0F3460.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 #### IDE Used:
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -29,6 +24,6 @@ Live Link: https://rhythm1950.github.io/Adidas-Website-UI/
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-### Screen-Shot of Clone:
-<img src="./IMG/Screenshot.png" alt="Adidas Clone">
+### Website Preview:
+<img src="./img/Screenshot.png" alt="Adidas Clone">
 
