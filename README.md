@@ -4,7 +4,7 @@ This is a website close to the website of Adidas. I have developed it using HTML
 ### Deployment
 | Environment | Link |
 |-------------|------|
-| GitHub Pages | [GitHub Pages](https://rhythm1950.github.io/Techo-Agency/) |
+| GitHub Pages | [GitHub Pages](https://rhythm1950.github.io/Adidas-Website-UI/) |
 
 ### Technology Stack
 #### Languages:
