@@ -1,5 +1,5 @@
 # Adidas-Clone
-This is a website close to the website of Adidas. I have developed it using HTML, CSS, Bootstrap, JavaScript.
+This is a website close to the website of Adidas. I have developed it using HTML, CSS, Bootstrap, JavaScript, JQuery.
 
 ### Deployment
 | Environment | Link |
