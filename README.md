@@ -25,5 +25,5 @@ This is a website close to the website of Adidas. I have developed it using HTML
 
 
 ### Website Preview:
-<img src="./img/Screenshot.png" alt="Adidas Clone">
+<img src="./IMG/Screenshot.png" alt="Adidas">
 
